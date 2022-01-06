@@ -27,7 +27,7 @@ export default function Sidebar() {
               </NavLink>
             </li>
             <li className="sidebar__nav-item">
-              <NavLink activeClassName="active" to="/Zingmp3">
+              <NavLink activeClassName="active" to="/Mp3">
                 <FaRecordVinyl />
                 <span>Khám Phá</span>
               </NavLink>
