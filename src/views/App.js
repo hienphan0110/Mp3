@@ -132,7 +132,7 @@ function App() {
               song={songs[currentSongIndex]}
             />
           </Route>
-          <Route path="/Zingmp3">
+          <Route path="/Mp3">
             <Khampha />
           </Route>
         </Switch>
