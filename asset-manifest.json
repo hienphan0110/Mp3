@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Zingmp3/static/css/main.5e19e6f4.css",
+    "main.js": "/Zingmp3/static/js/main.d10d99ec.js",
+    "static/js/787.b855c4ac.chunk.js": "/Zingmp3/static/js/787.b855c4ac.chunk.js",
+    "static/media/baotienmotmobinhyen.mp3": "/Zingmp3/static/media/baotienmotmobinhyen.c832164cce5deaed3cf1.mp3",
+    "static/media/song1.mp3": "/Zingmp3/static/media/song1.4f836ca50671b36a9547.mp3",
+    "static/media/closer.mp3": "/Zingmp3/static/media/closer.b0b9019ab1dbd8ef86f5.mp3",
+    "static/media/tatnuocdaudinh.mp3": "/Zingmp3/static/media/tatnuocdaudinh.14d5a8f30e497b600d7d.mp3",
+    "static/media/goodbyeroad.mp3": "/Zingmp3/static/media/goodbyeroad.0f0824293c8f7203e0c0.mp3",
+    "static/media/downtown.mp3": "/Zingmp3/static/media/downtown.85044bf74dd0ebf016e6.mp3",
+    "static/media/blue.mp3": "/Zingmp3/static/media/blue.a1520346a64b0ced9178.mp3",
+    "static/media/lovemeloveme.mp3": "/Zingmp3/static/media/lovemeloveme.1f00bfc706c5276909a9.mp3",
+    "static/media/body.mp3": "/Zingmp3/static/media/body.80ba062035792cb35158.mp3",
+    "static/media/blue-lyric-video.mp3": "/Zingmp3/static/media/blue-lyric-video.905f097e6b3b07ce11e4.mp3",
+    "static/media/withyou.mp3": "/Zingmp3/static/media/withyou.f9636b07b6d952d25e0d.mp3",
+    "static/media/ok.mp3": "/Zingmp3/static/media/ok.e602978bc896c7f7daac.mp3",
+    "static/media/slick.svg": "/Zingmp3/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Zingmp3/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Zingmp3/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Zingmp3/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Zingmp3/index.html",
+    "main.5e19e6f4.css.map": "/Zingmp3/static/css/main.5e19e6f4.css.map",
+    "main.d10d99ec.js.map": "/Zingmp3/static/js/main.d10d99ec.js.map",
+    "787.b855c4ac.chunk.js.map": "/Zingmp3/static/js/787.b855c4ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e19e6f4.css",
+    "static/js/main.d10d99ec.js"
+  ]
+}
