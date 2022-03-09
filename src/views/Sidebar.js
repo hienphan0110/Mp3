@@ -7,7 +7,6 @@ import {
   FaHeadphonesAlt,
   FaRssSquare,
 } from "react-icons/fa";
-
 export default function Sidebar() {
   return (
     <div className="sidebar">
